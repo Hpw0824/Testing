@@ -527,6 +527,8 @@ namespace 京广高铁客流分析0315
             StreamWriter sw = Log.OpenFile(@"C:\Users\hpw\Desktop\20121229");
             if (sw == null)
                 return;
+
+
         }
     }
 }

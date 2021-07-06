@@ -35,3 +35,5 @@ C:\Documents and Settings\童佳楠\桌面\京广客流转格式0315\京广客�
 C:\Documents and Settings\童佳楠\桌面\京广客流转格式0315\京广客流转格式0315\京广高铁客流分析0315\obj\Debug\京广高铁客流分析0315.csproj.GenerateResource.Cache
 C:\Users\Hpw\Desktop\Test\Testing\Testing\京广高铁客流分析0315\obj\Debug\京广高铁客流分析0315.exe
 C:\Users\Hpw\Desktop\Test\Testing\Testing\京广高铁客流分析0315\obj\Debug\京广高铁客流分析0315.pdb
+G:\Testing\Testing\京广高铁客流分析0315\obj\Debug\京广高铁客流分析0315.exe
+G:\Testing\Testing\京广高铁客流分析0315\obj\Debug\京广高铁客流分析0315.pdb
